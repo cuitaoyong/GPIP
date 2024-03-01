@@ -16,7 +16,7 @@ Machine learning interatomic potentials (MLIPs) describe the interactions betwee
 # System Requirements
 ## Hardware requirements
 
-GPU required for running this code base, and NVIDIA A100 card and one RTX 3090 card has been tested.
+A GPU is required for running this code base, and NVIDIA A100 card and one RTX 3090 card have been tested.
 
 ## Software requirements
 ### OS Requirements
