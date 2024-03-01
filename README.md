@@ -64,7 +64,7 @@ The model is pre-trained on the MD17 dataset, which consists of MD trajectories 
 python pretraining.py
 ```
 
-### Fun-tuning on MD17 Datasets(Benzene2017 Dataset)
+### Fine-tuning on MD17 Datasets(Benzene2017 Dataset)
 
 ```
 python finetune.py
