@@ -34,6 +34,7 @@ Python 3.9.15 has been tested.
 conda install mamba -n base -c conda-forge
 mamba env create -f environment.yaml
 conda activate GPIP
+unzip commons.zip
 ```
 
 - Install DGL from [here](https://www.dgl.ai/pages/start.html).
