@@ -73,4 +73,6 @@ python finetune.py
 
 For other datasets in MD17 Datasets, you can change the `data_name` in the 15 line of the `finetune.py` (replace the 'benzene2017' with 'aspirin', 'ethanol', 'malonaldehyde', 'naphthalene', 'salicylic', 'toluene', 'uracil').
 
+# Connection
 
+Please contact Mr. Taoyong Cui (cty21@tsinghua.org.cn) if you have interests in our study.
